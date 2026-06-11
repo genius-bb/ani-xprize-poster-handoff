@@ -1,0 +1,112 @@
+[
+  {
+    "key": "bruno",
+    "label": "Bruno Balen",
+    "url": "https://pbs.twimg.com/profile_images/1964627526107439104/km6JSrWi_400x400.jpg",
+    "source_page": "https://x.com/Bruno_Balen",
+    "kind": "portrait",
+    "filename": null,
+    "crop_bias_x": 0.5,
+    "crop_bias_y": 0.48
+  },
+  {
+    "key": "nika",
+    "label": "Nika Pintar",
+    "url": "https://static.wixstatic.com/media/4178d0_da591177e53a413fbe2b578784a333d7~mv2.png/v1/fill/w_1080,h_1080,al_c/Nika%20Pintar.png",
+    "source_page": "https://www.longevityinvestors.ch/davos-speakers-2024/nika-pintar",
+    "kind": "portrait",
+    "filename": null,
+    "crop_bias_x": 0.5,
+    "crop_bias_y": 0.44
+  },
+  {
+    "key": "evelyne",
+    "label": "Evelyne Bischof",
+    "url": "https://static.tildacdn.one/tild3037-3964-4539-b331-653330646630/Eva.jpeg",
+    "source_page": "https://hlms.co/evelyne",
+    "kind": "portrait",
+    "filename": null,
+    "crop_bias_x": 0.5,
+    "crop_bias_y": 0.38
+  },
+  {
+    "key": "michael",
+    "label": "Michael Snyder",
+    "url": "https://gregor.stanford.edu/sites/g/files/sbiybj22476/files/styles/card_1192x596/public/media/image/michael_snyder_0.jpg?h=00474aed&itok=0bfJ3H5B",
+    "source_page": "https://gregor.stanford.edu/people/michael-snyder-phd",
+    "kind": "portrait",
+    "filename": null,
+    "crop_bias_x": 0.5,
+    "crop_bias_y": 0.42
+  },
+  {
+    "key": "vadim",
+    "label": "Vadim Gladyshev",
+    "url": "https://gladyshevlab.bwh.harvard.edu/wp-content/themes/gladyshev/data/team/photos/vadim-gladyshev.jpg",
+    "source_page": "https://gladyshevlab.bwh.harvard.edu/team/",
+    "kind": "portrait",
+    "filename": null,
+    "crop_bias_x": 0.5,
+    "crop_bias_y": 0.42
+  },
+  {
+    "key": "steve",
+    "label": "Steve Horvath",
+    "url": "https://s3.amazonaws.com/cms.ipressroom.com/173/files/20166/5792ae172cfac209150c62cb_Steve+Horvath/Steve+Horvath_30eed368-c3fc-4ee7-84e6-dc0eeba88cdc-prv.jpg",
+    "source_page": "https://newsroom.ucla.edu/file?fid=5792ae172cfac209150c62cb",
+    "kind": "portrait",
+    "filename": null,
+    "crop_bias_x": 0.5,
+    "crop_bias_y": 0.42
+  },
+  {
+    "key": "brian",
+    "label": "Brian Kennedy",
+    "url": "https://www.buckinstitute.org/wp-content/uploads/2018/06/14_BRIAN_KENNEDY_0014.jpg",
+    "source_page": "https://www.buckinstitute.org/news/brian-k-kennedy-phd-appointed-as-new-ceo-of-buck-institute-for-age-research/",
+    "kind": "portrait",
+    "filename": null,
+    "crop_bias_x": 0.5,
+    "crop_bias_y": 0.42
+  },
+  {
+    "key": "ani_logo",
+    "label": "ANI.AI logo",
+    "url": "https://ani.ai/assets/ani-ai-logo-black.png",
+    "source_page": "https://ani.ai/",
+    "kind": "logo",
+    "filename": "ani-ai-logo-black.png",
+    "crop_bias_x": 0.5,
+    "crop_bias_y": 0.42
+  },
+  {
+    "key": "xprize_svg",
+    "label": "XPRIZE logo",
+    "url": "https://assets-us-01.kc-usercontent.com/9bc15d1f-8a5c-007d-b507-e3496e85af86/400b6a1b-6641-4887-9b70-3cc9e27706ce/XPRIZE-Logo-Black.svg",
+    "source_page": "https://www.xprize.org/competitions/healthspan",
+    "kind": "logo",
+    "filename": "xprize-logo-black.svg",
+    "crop_bias_x": 0.5,
+    "crop_bias_y": 0.42
+  },
+  {
+    "key": "healthspan_logo",
+    "label": "XPRIZE Healthspan logo",
+    "url": "https://assets-us-01.kc-usercontent.com/9bc15d1f-8a5c-007d-b507-e3496e85af86/753f3f3b-4089-4e49-a164-ec40b9a018ad/XPHS-Logo-Inline-WHITE_Hevolution.png?w=1000",
+    "source_page": "https://www.xprize.org/competitions/healthspan",
+    "kind": "logo",
+    "filename": "xprize-healthspan-white.png",
+    "crop_bias_x": 0.5,
+    "crop_bias_y": 0.42
+  },
+  {
+    "key": "solve_fshd_logo",
+    "label": "SOLVE FSHD logo",
+    "url": "https://assets-us-01.kc-usercontent.com/9bc15d1f-8a5c-007d-b507-e3496e85af86/9635780c-b4ea-4325-9b2f-e471e46ea952/sovefshd.png?w=900",
+    "source_page": "https://www.xprize.org/sponsors/solve-fshd",
+    "kind": "logo",
+    "filename": "solve-fshd.png",
+    "crop_bias_x": 0.5,
+    "crop_bias_y": 0.42
+  }
+]
